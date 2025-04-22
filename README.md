@@ -31,6 +31,12 @@
 $ yarn install
 ```
 
+Create a postgres database and copy .env.example to .env and set all environment variables. Run migration after
+
+```bash
+npx prisma migrate dev
+```
+
 ## Compile and run the project
 
 ```bash
