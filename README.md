@@ -50,6 +50,9 @@ $ yarn run start:dev
 $ yarn run start:prod
 ```
 
+You can test it in the nestjs graphql playground
+http://localhost:3000/graphql (it may change depends on your configuration)
+
 ## Run tests
 
 ```bash
